@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: shadow20000
+    env: docker
+    plan: free
